@@ -2,7 +2,6 @@
 using namespace std;
 
 int main() {
-   // n3 time complexity, idk how to fix it
    int n;
    int arr[100];
    cout<<"Enter the number of elements: ";
@@ -36,4 +35,5 @@ int main() {
 
 
    return 0;
+
 }
