@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 const int ok = 100; 
-
+ 
 
 void create(int arr[],int n){
     if (n>ok){
