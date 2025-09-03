@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+ 
 int main(){ 
     int i; 
     int arr[5] = {1}; 
@@ -8,4 +8,5 @@ int main(){
         printf("%d",arr[i]);
     }
     return 0;    
+
 } 
